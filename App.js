@@ -14,14 +14,14 @@ import WithDraw from './WithDraw'
 
 export default function App() {
   //미완성
-  //return <SignUp/>
+  return <SignUp/>
   //return <SignUpContent/>
   //return <MyProfileEditKeyword/>
   //return <Notice/>
   //return <PerInfoSetting/>
   //return <WithDraw/>
   //완성
-  return <MyProfile/>
+  //return <MyProfile/>
   //return <MyProfileEdit/>
   //return <Settings/>
   //return <Help/>
