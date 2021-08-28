@@ -8,7 +8,7 @@ export default function Help() {
             <View style={styles.statusBarBackground}/>
             <View style = {styles.titleBackground}>
                 <TouchableOpacity>
-                    <Icon name="ios-arrow-back-outline" size={30} color='black' style={{marginLeft: 18, marginRight: 132}}/>
+                    <Icon name="chevron-back" size={30} color='black' style={{marginLeft: 18, marginRight: 132}}/>
                 </TouchableOpacity>
                 <Text style={styles.title}>도움말</Text>
             </View>

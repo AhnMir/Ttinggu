@@ -8,7 +8,7 @@ export default function Settings() {
             <View style={styles.statusBarBackground}/>
             <View style = {styles.titleBackground}>
                 <TouchableOpacity>
-                    <Icon name="ios-arrow-back-outline" size={30} color='#3E3E3E' style={{marginLeft: 18, marginRight: 115}}/>
+                    <Icon name="chevron-back" size={30} color='#3E3E3E' style={{marginLeft: 18, marginRight: 115}}/>
                 </TouchableOpacity>
                 <Text style={styles.title}>차단한 계정</Text>
             </View>

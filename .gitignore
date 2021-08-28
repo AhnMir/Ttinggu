@@ -9,11 +9,8 @@ npm-debug.*
 *.orig.*
 web-build/
 SignUp.js
-SignUpContent.js
-MyProfileEditKeyword.js
 Notice.js
-PerInfoSetting.js
-WithDraw.js
+MyProfileEditKeyword.js
 
 # macOS
 .DS_Store

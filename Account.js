@@ -8,7 +8,7 @@ export default function Settings() {
             <View style={styles.statusBarBackground}/>
             <View style = {styles.titleBackground}>
                 <TouchableOpacity>
-                    <Icon name="ios-arrow-back-outline" size={30} color='black' style={{marginLeft: 18, marginRight: 140}}/>
+                    <Icon name="chevron-back" size={30} color='black' style={{marginLeft: 18, marginRight: 140}}/>
                 </TouchableOpacity>
                 <Text style={styles.title}>계정</Text>
             </View>
